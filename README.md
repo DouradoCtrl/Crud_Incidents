@@ -42,8 +42,6 @@ Este é um projeto de **CRUD** desenvolvido em **PHP**, com integração ao **My
 
 ![Página editar](previews/edit_image.png)
 
-> Substitua `path/para/imagem` pelos caminhos reais das imagens no seu repositório.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
