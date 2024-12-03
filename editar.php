@@ -8,7 +8,7 @@
 
 <div class="row vh-100 d-flex align-items-center">
     <div class="col-12">
-        <h1 class="text-center mt-3">Editar Incidente</h1>
+        <h1 class="text-center">Editar Incidente</h1>
         <form action="index.php?page=salvar" method="POST">
             <input type="hidden" name="entendo" value="Editar">
             <input type="hidden" name="id" value="<?php print($_REQUEST["id"])?>">

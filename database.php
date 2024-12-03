@@ -5,7 +5,7 @@
 
 	define("HOST","localhost");
 	define("USER","root");
-	define("PASS","suasenha");
+	define("PASS","password");
 	define("BASE","incidente");
 
 	$conn = new mysqli(HOST,USER,PASS,BASE);

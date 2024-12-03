@@ -19,7 +19,7 @@
                     print("<th><div class='text-center'>Status</div></th>");
                     print("<th><div class='text-center'>Data incidente</div></th>");
                     print("<th><div class='text-center'>Hora</div></th>");
-                    print("<th><div class='text-center'>Finalizado</div></th>");
+                    print("<th><div class='text-center'>Data finalizado</div></th>");
                     print("<th><div class='text-center'>Hora fim</div></th>");
                     print("<th style='width: 200px;'><div class='text-center'>Ações</div></th>");
                 print("</tr>");
